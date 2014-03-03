@@ -1,0 +1,2 @@
+x:=3;
+for i:=1 to x do for j:=1 to x do t:=1 end; end
