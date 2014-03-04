@@ -1,4 +1,4 @@
 x:=50; y:=2;
-q:=x+y;
+z:=x+y;
 r:=0;
-for i:=1 to x do q:=q.-y; for j:=1 to q do r:=i end end
+for i:=1 to x do z:=z.-y; for j:=1 to z do r:=i end end
